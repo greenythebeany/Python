@@ -177,7 +177,7 @@ while True:
         talk('Opening gmail')
 
     elif 'open github' in command:
-        webbrowser.open_new_tab("https://github.com/Gymoblig")
+        webbrowser.open_new_tab("https://github.com/Greenythebeany")
         print('   </RUBY/> Opening GitHub')
         talk('Opening git hub')
     elif 'open youtube' in command:

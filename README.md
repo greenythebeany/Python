@@ -26,4 +26,4 @@ Repozitár je rozdelený do dvoch hlavných kategórií:
 Ak chcete získať tento repozitár, môžete ho jednoducho klonovať pomocou **Git** alebo si ho stiahnuť ako **.zip**:
 
 ```bash
-git clone https://github.com/Gymoblig/Python.git
+git clone https://github.com/Greenythebeany/Python.git
